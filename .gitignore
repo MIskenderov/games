@@ -1,3 +1,8 @@
+	.DS_Store
+	.classpath
+	.settings/
+	bin/
+
 .project
 # Compiled class file
 *.class
