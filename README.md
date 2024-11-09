@@ -1,2 +1,2 @@
 # games
-java console games 
+java console games
